@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: rn/about.html 
+keywords:  
+summary:  
+---
+= 이 릴리스에 대해
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+이 사이트의 문서는 Astra Control REST API 및 관련 자동화 기술을 2021년 8월(21.08) 및 2021년 4월(21.04) Astra Control 릴리스와 함께 설명합니다. 특히 이 REST API 릴리스는 Astra Control Center의 21.08 릴리스와 함께 사용됩니다.
+
+이 릴리스와 이전 릴리스에 대한 자세한 내용은 다음 페이지 및 사이트를 참조하십시오.
+
+* link:../rn/whats_new.html["Astra Control REST API의 새로운 기능"]
+* link:../endpoints/resources.html["리소스 및 엔드포인트"]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108 문서"^]
+
