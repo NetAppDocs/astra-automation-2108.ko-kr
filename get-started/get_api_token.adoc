@@ -6,6 +6,7 @@ summary:
 ---
 = API 토큰을 가져옵니다
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

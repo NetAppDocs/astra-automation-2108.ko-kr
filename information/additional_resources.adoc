@@ -6,6 +6,7 @@ summary:
 ---
 = 추가 리소스
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

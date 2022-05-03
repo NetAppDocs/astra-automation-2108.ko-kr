@@ -6,6 +6,7 @@ summary:
 ---
 = 이 릴리스에 대해
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
