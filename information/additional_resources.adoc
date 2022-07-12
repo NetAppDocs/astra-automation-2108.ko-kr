@@ -18,7 +18,7 @@ summary:
 
 
 
-=== 아스트라
+== 아스트라
 
 * https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108 문서"^]
 +
@@ -36,7 +36,7 @@ NetApp에서 관리하는 Astra Trident 오픈 소스 스토리지 오케스트�
 
 
 
-=== NetApp 클라우드 리소스
+== NetApp 클라우드 리소스
 
 * https://cloud.netapp.com/["NetApp 클라우드 솔루션"^]
 +
@@ -54,7 +54,7 @@ NetApp Cloud Central 서비스 콘솔(로그인 포함)
 
 
 
-=== REST 개념 및 클라우드 기술
+== REST 개념 및 클라우드 기술
 
 * 박사 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm["학위 논문"^] Roy Fielding
 +
