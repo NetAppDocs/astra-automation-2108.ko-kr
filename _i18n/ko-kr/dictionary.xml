@@ -170,8 +170,6 @@
   <block id="352836aad17f0db4217873eb0a9524b3" category="paragraph">정보는 여러 가지 방법으로 웹 서비스 클라이언트와 서버 간에 구조화되고 전송될 수 있지만 가장 일반적인 옵션은 JSON(JavaScript Object Notation)입니다. JSON은 단순 데이터 구조를 일반 텍스트로 나타내는 업계 표준이며 리소스를 설명하는 상태 정보를 전송하는 데 사용됩니다. Astra Control REST API는 JSON을 사용하여 각 HTTP 요청 및 응답의 본문으로 전송되는 데이터를 포맷합니다.</block>
   <block id="916bff7b68625feaff0fa92152a8c4f0" category="doc">URL 형식</block>
   <block id="94fd56b370187429c8fbd312f50f5c1b" category="paragraph">REST API를 통해 리소스 인스턴스 또는 컬렉션에 액세스하는 데 사용되는 URL의 일반 구조는 여러 값으로 구성됩니다. 이 구조체는 기본 개체 모델 및 시스템 설계를 반영합니다.</block>
-  <block id="04af7c5cae35340b12ac2ff18f2993fb" category="section-title">URL의 형식입니다</block>
-  <block id="3e0ab85384ebe4f846202e772b341dc5" category="paragraph">URL의 형식과 예제가 아래에 나와 있습니다.</block>
   <block id="6e84a7dae5ae82dd22a0ec6f456dbc8d" category="section-title">root로 계정을 지정합니다</block>
   <block id="e166d573b25ce4160633b91145d1eae5" category="paragraph">모든 REST 끝점에 대한 리소스 경로의 루트는 Astra 계정입니다. 따라서 URL의 모든 경로는 "/account/{account_id}"로 시작합니다. 여기서 "account_id"는 계정에 대한 고유한 UUIDv4 값입니다. 내부 구조 모든 리소스 액세스가 특정 계정을 기반으로 하는 설계를 반영합니다.</block>
   <block id="faf17fd8415851163c880ffe0eee8b37" category="section-title">끝점 리소스 범주입니다</block>
@@ -577,7 +575,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">통지 파일은 NetApp 소프트웨어에 사용된 타사의 저작권 및 라이센스에 대한 정보를 제공합니다.</block>
   <block id="fbd3ad11889bebf7ba34d30c64465dc9" category="inline-link">Astra에 대한 고지</block>
   <block id="b571cab532f203c4ad9f53bdd8a27935" category="paragraph"><block ref="b571cab532f203c4ad9f53bdd8a27935" category="inline-link-rx"></block></block>
-  <block id="c59ae8d7beeb519a23478ab048af482c" category="paragraph"><block ref="c59ae8d7beeb519a23478ab048af482c" category="inline-link-macro-rx"></block></block>
   <block id="e81b0f8fae224ca0c3d3258b75a989dd" category="section-title">Astra Control API 라이센스</block>
   <block id="8814863051032c96890d514b89b4519c" category="paragraph">Astra Control REST API는 정의된 쿼리 매개 변수를 통해 리소스 컬렉션에 액세스하는 여러 가지 방법을 제공합니다.</block>
   <block id="bf14a6bb5484aa858662864c8b0d062f" category="section-title">값 선택</block>
@@ -759,4 +756,6 @@
   <block id="35ddd64ed03dd1579ce39e6e82ff721f" category="sidebar">추가 REST 고려 사항</block>
   <block id="36b64aad8a26246fe3ad4116a2b6f289" category="sidebar">진단</block>
   <block id="f05754a1ff0413a18fba9fcecbf43b4d" category="sidebar">API 토큰을 가져오는 중입니다</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">이 작업에 대해</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">작업을 마친 후</block>
 </blocks>
