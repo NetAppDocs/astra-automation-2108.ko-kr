@@ -65,7 +65,7 @@ API에서 지원하는 HTTP 메서드 또는 동사는 아래 표에 나와 있�
 다음 표는 Astra Control REST API와 함께 사용되는 HTTP 헤더를 요약한 것입니다.
 
 
-NOTE: 을 참조하십시오 https://www.rfc-editor.org/rfc/rfc7232.txt["RFC 7232"^] 및 https://www.rfc-editor.org/rfc/rfc7233.txt["RFC 7233"^] 를 참조하십시오.
+NOTE: 을 참조하십시오 https://["RFC 7232"^] 및 https://["RFC 7233"^] 를 참조하십시오.
 
 [cols="30,15,55"]
 |===
@@ -130,7 +130,7 @@ NOTE: 을 참조하십시오 https://www.rfc-editor.org/rfc/rfc7232.txt["RFC 723
 Astra Control REST API에서 사용하는 HTTP 상태 코드는 아래와 같다.
 
 
-NOTE: Astra Control REST API는 HTTP API * 표준에 대한 * Problem Details도 사용합니다. 을 참조하십시오 link:diagnostics_support.html["진단 및 지원"] 를 참조하십시오.
+NOTE: Astra Control REST API는 HTTP API * 표준에 대한 * Problem Details도 사용합니다. 을 참조하십시오 link:../additional/diagnostics_support.html["진단 및 지원"] 를 참조하십시오.
 
 [cols="15,20,65"]
 |===
