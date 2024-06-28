@@ -267,7 +267,6 @@
   <block id="7d88293618d45c51062ebb23f7a5777d" category="list-text">페이지 오른쪽 상단의 그림 아이콘을 클릭하고 * API access * 를 선택합니다.</block>
   <block id="a242cf3d90ad638fe0e23d9477b74175" category="list-text">페이지 맨 위에서 * API Documentation * 아래에 표시된 URL을 클릭합니다.</block>
   <block id="1cafd580155ad918d6c525c18cc8e5e6" category="list-text">메시지가 나타나면 계정 자격 증명을 다시 입력합니다.</block>
-  <block id="c6c51849eeb1ac322baa3a99b7cd7e43" category="summary">Astra Automation의 요약입니다.</block>
   <block id="832210201d55f5c764a32c055a00b726" category="doc">Astra Control Automation 21.08 문서</block>
   <block id="f33f60a3b5c95e8659ec5a992f0f055c" category="doc">앱 관리를 취소합니다</block>
   <block id="2b194b9170143eb845c618e13f34e5fb" category="paragraph">더 이상 필요하지 않은 경우 관리되는 앱을 제거할 수 있습니다. 관리되는 응용 프로그램을 제거하면 연결된 스케줄도 삭제됩니다.</block>
@@ -766,4 +765,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="775e2faa120631457b3eb5f26a2f323a" category="sidebar">Astra Control은 Kubernetes 애플리케이션에 데이터 라이프사이클 관리를 제공하는 NetApp 소프트웨어 제품입니다. 환경에 따라 두 가지 구축 모델을 사용할 수 있습니다. Astra Control Center와 Astra Control Service는 주어진 릴리스에 대해 동일한 REST API를 공유합니다. API 및 기타 관련 자동화 기술을 사용하여 Astra Control 배포를 관리할 수 있습니다.</block>
 </blocks>
